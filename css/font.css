@@ -3,3 +3,6 @@
   src: url("BattleSansSerif.woff2") format("woff2"),
        url("BattleSansSerif.woff") format("woff");
 }
+.battleClass{
+  font-family: "sans-serif";
+}
