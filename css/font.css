@@ -1,4 +1,5 @@
 @font-face {
-font-family: sans-serif;
-src: url(BattleSansSerif.otf) format("truetype");
+  font-family: "sans-serif";
+  src: url("BattleSansSerif.woff2") format("woff2"),
+       url("BattleSansSerif.woff") format("woff");
 }
