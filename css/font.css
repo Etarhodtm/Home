@@ -1,10 +1,10 @@
 @font-face {
-  font-family: "sans-serif";
+  font-family: 'BattleSansSerif';
   /*フォントファイルへのパス（複数指定の場合、上から順に読み込まれる）*/
   src: url("BattleSansSerif.woff2") format("woff2"),
        url("BattleSansSerif.woff") format("woff");
 }
 
 .battleClass {
-  font-family: "sans-serif";
+  font-family: 'BattleSansSerif';
 }
