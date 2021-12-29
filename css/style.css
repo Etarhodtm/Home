@@ -38,6 +38,7 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 ------------------------------------------------------------*/
 #header{
 	text-align: center;
+	font-family: 'BattleSansSerif', sans-serif;
 }
 
 #header h1{
