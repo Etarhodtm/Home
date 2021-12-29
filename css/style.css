@@ -128,6 +128,32 @@ section h2 span {
 	width: 100%;
 	margin: 20px 0;
 }
+#sns img{
+	padding: 35px 10px 5px 0;
+}
+
+#sns a:hover img{
+	opacity: .8;
+}
+
+#map{
+	position: relative;
+	padding-bottom: 75%;
+	height: 0;
+	overflow: hidden;
+	z-index: 0;
+}
+
+#map iframe{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
+	border: 0;
+}
+
+
 
 
 /* SEC03 CONTACT

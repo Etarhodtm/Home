@@ -36,3 +36,9 @@
 .btn-social-square--feedly {
   background: #7bda72;
 }
+.btn-social-square--soundcloud {
+  background: #ff8000;
+}
+.btn-social-square--youtube {
+  background: #ff0000;
+}
