@@ -119,11 +119,15 @@ section h2 span {
 
 /* SEC02 PROJECT
 ------------------------------------------------------------*/
-#sec02 img{
-	width: 100%;
-	margin-bottom: 30px;
+#sec02 p{
+	margin-bottom: 5px;
 }
 
+.col1 li{
+	display: inline-block;
+	width: 100%;
+	margin: 20px 0;
+}
 
 
 /* SEC03 CONTACT
