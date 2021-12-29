@@ -5,6 +5,6 @@
        url("BattleSansSerif.woff") format("woff");
 }
 
-.battleClass{
+.battleClass p{
   font-family: 'BattleSansSerif', sans-serif;
 }
