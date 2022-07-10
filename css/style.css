@@ -74,6 +74,13 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 	font-size: 1px;
 }
 
+#footerlink{
+	clear: both;
+	padding: 50px 10px 50px 0;
+	text-align: center;
+	font-size: 10px;
+}
+
 
 /* 共通
 ------------------------------------------------------------*/
