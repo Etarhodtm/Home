@@ -87,18 +87,6 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 /*
 ------------------------------------------------------------*/
 
-.contentA{
-	display: flex;
-	justify-content: center;
-	padding: 10px;
-	font-size: 20px;
-}
-
-.contentA>div{
-	width: 50%;
-	margin: 10px;
-	padding: 10px;
-}
 
 
 /* 共通
@@ -142,6 +130,56 @@ section h2 span {
 	padding-bottom: 10px;
 	font-size: 20px;
 }
+
+/* SEC01 PORTFOLIO
+------------------------------------------------------------*/
+#sec01 p{
+	margin-bottom: 5px;
+}
+
+.col1 li{
+	display: inline-block;
+	width: 100%;
+	margin: 20px 0;
+}
+#sns img{
+	padding: 35px 10px 5px 0;
+}
+
+#sns a:hover img{
+	opacity: .8;
+}
+
+#map{
+	position: relative;
+	padding-bottom: 75%;
+	height: 0;
+	overflow: hidden;
+	z-index: 0;
+}
+
+#map iframe{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
+	border: 0;
+}
+
+.contentA{
+	display: flex;
+	justify-content: center;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.contentA>div{
+	width: 50%;
+	margin: 10px;
+	padding: 10px;
+}
+
 
 
 /* SEC02 PROJECT
