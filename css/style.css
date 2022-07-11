@@ -84,6 +84,21 @@ a:active, a:focus,input:active, input:focus{outline:0;}
     /*コレ*/list-style: none;
 }
 
+------------------------------------------------------------*/
+
+.contentA,.contentB{
+ width: 50%;
+ height: 100px;
+}
+ 
+.contentA{
+ float: left;
+}
+ 
+.contentB{
+ float: right;
+}
+
 
 /* 共通
 ------------------------------------------------------------*/
