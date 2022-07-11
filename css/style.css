@@ -104,12 +104,12 @@ section{
 
 section h2{
 	font-family: 'BattleSansSerif', sans-serif;
-	width: 60%;
+	width: 70%;
 	margin: 0 auto 40px;
 	font-size: 26px;
 	font-weight:normal;
 	text-align: center;
-	background: url(../images/borderBlack.png) repeat-x 0 80%;
+	background: url(../images/borderBlack.png) repeat-x 0 50%;
 	background-size: 1px 1px;
 }
 
